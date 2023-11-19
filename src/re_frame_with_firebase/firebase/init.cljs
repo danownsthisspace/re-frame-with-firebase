@@ -20,13 +20,13 @@
 (defn init []
   (when (zero? (alength (firebase/getApps)))
     (println "initalise firebase")
-    (firebase/initializeApp #js {:apiKey "AIzaSyAdim1cZ9y2QUxOpuCMj2xxVaqgd5RLKCE"
-                                 :authDomain "reframe-with-firebase.firebaseapp.com"
-                                 :projectId "reframe-with-firebase"
-                                 :storageBucket "reframe-with-firebase.appspot.com"
-                                 :messagingSenderId "804694848798"
-                                 :appId "1:804694848798:web:4ac933184c9bd884afc50f"
-                                 :measurementId "G-XX3963MDC1"})
+    (firebase/initializeApp #js {:apiKey ""
+                                 :authDomain ""
+                                 :projectId ""
+                                 :storageBucket ""
+                                 :messagingSenderId ""
+                                 :appId ""
+                                 :measurementId ""})
     (println "initialize firestore")
     (firestore/initializeFirestore (firebase/getApp))
     (onAuthStateChanged (getAuth) (fn [user]
