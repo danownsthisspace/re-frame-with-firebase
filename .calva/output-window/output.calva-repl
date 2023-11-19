@@ -1,0 +1,338 @@
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; re_frame_with_firebase.firebase.db.get_doc.call(...).get is not a function
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#object[DocumentReference [object Object]]
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<js/Promise[~]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; Cannot use 'in' operator to search for '_delegate' in users/1
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<js/Promise[~]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<js/Promise[~]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#'re-frame-with-firebase.firebase.db/store-doc
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#'re-frame-with-firebase.firebase.db/store-doc
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<js/Promise[~]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<js/Promise[~]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<js/Promise[~]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<js/Promise[~]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#'re-frame-with-firebase.firebase.db/store-doc
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#<Promise[pending:82]>
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,11s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; module$node_modules$firebase$firestore$lite$dist$esm$index_esm.getFirestore(...).collection is not a function
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; module$node_modules$firebase$firestore$lite$dist$esm$index_esm.getFirestore(...).collection is not a function
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; module$node_modules$firebase$firestore$lite$dist$esm$index_esm.getFirestore(...).collection is not a function
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+#object[Firestore [object Object]]
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,11s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 1 warnings, 0,12s)
+; 
+; ------ WARNING #1 - :fn-arity --------------------------------------------------
+;  File: /home/dan/Projects/onthecodeagain/re-frame-with-firebase/src/re_frame_with_firebase/firebase/init.cljs:16:39
+; --------------------------------------------------------------------------------
+;   13 |     (when user-to-store
+;   14 |       (fetch-doc (user-path user) (fn [u]
+;   15 |                                     (when (nil? u)
+;   16 |                                       (store-doc  {})))))
+; ---------------------------------------------^----------------------------------
+;  Wrong number of args (1) passed to re-frame-with-firebase.firebase.db/store-doc
+; --------------------------------------------------------------------------------
+;   17 |     (dispatch [::events/set-user user-to-store])))
+;   18 | 
+;   19 | (defn init []
+;   20 |   (when (zero? (alength (firebase/getApps)))
+; --------------------------------------------------------------------------------
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+cljs꞉re-frame-with-firebase.firebase.db꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:1:7
+;  Use of undeclared Var re-frame-with-firebase.firebase.init/user-to-store
+; --------------------------------------------------------------------------------
+; 
+; 
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:2:29
+;  Use of undeclared Var re-frame-with-firebase.firebase.init/user
+; --------------------------------------------------------------------------------
+; 
+; 
+; ------ WARNING - :fn-arity -----------------------------------------------------
+;  Resource: <eval>:4:39
+;  Wrong number of args (1) passed to re-frame-with-firebase.firebase.db/store-doc
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 1 warnings, 0,14s)
+; 
+; ------ WARNING #1 - :fn-arity --------------------------------------------------
+;  File: /home/dan/Projects/onthecodeagain/re-frame-with-firebase/src/re_frame_with_firebase/firebase/init.cljs:16:39
+; --------------------------------------------------------------------------------
+;   13 |     (when user-to-store
+;   14 |       (fetch-doc (user-path user) (fn [u]
+;   15 |                                     (when (nil? u)
+;   16 |                                       (store-doc  {})))))
+; ---------------------------------------------^----------------------------------
+;  Wrong number of args (1) passed to re-frame-with-firebase.firebase.db/store-doc
+; --------------------------------------------------------------------------------
+;   17 |     (dispatch [::events/set-user user-to-store])))
+;   18 | 
+;   19 | (defn init []
+;   20 |   (when (zero? (alength (firebase/getApps)))
+; --------------------------------------------------------------------------------
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 1 warnings, 0,13s)
+; 
+; ------ WARNING #1 - :fn-arity --------------------------------------------------
+;  File: /home/dan/Projects/onthecodeagain/re-frame-with-firebase/src/re_frame_with_firebase/firebase/init.cljs:17:36
+; --------------------------------------------------------------------------------
+;   14 |     (when user-to-store
+;   15 |       (fetch-doc user-fb-path  (fn [u]
+;   16 |                                  (when (nil? u)
+;   17 |                                    (store-doc  {})))))
+; ------------------------------------------^-------------------------------------
+;  Wrong number of args (1) passed to re-frame-with-firebase.firebase.db/store-doc
+; --------------------------------------------------------------------------------
+;   18 |     (dispatch [::events/set-user user-to-store])))
+;   19 | 
+;   20 | (defn init []
+;   21 |   (when (zero? (alength (firebase/getApps)))
+; --------------------------------------------------------------------------------
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 3 compiled, 0 warnings, 0,16s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 4 compiled, 0 warnings, 0,15s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 4 compiled, 0 warnings, 0,15s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 4 compiled, 0 warnings, 0,16s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 4 compiled, 0 warnings, 0,18s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 4 compiled, 1 warnings, 0,14s)
+; 
+; ------ WARNING #1 - :fn-arity --------------------------------------------------
+;  File: /home/dan/Projects/onthecodeagain/re-frame-with-firebase/src/re_frame_with_firebase/events.cljs:31:6
+; --------------------------------------------------------------------------------
+;   28 |  ::add-food-item
+;   29 |  (fn [db _]
+;   30 |    (let [new-food-list (conj (:food-items db) (:food-input db))]
+;   31 |      (update-doc (user-path (:user db)))
+; ------------^-------------------------------------------------------------------
+;  Wrong number of args (1) passed to re-frame-with-firebase.firebase.db/update-doc
+; --------------------------------------------------------------------------------
+;   32 |      (assoc db
+;   33 |             :food-input ""
+;   34 |             :food-items new-food-list))))
+;   35 | 
+; --------------------------------------------------------------------------------
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 4 compiled, 0 warnings, 0,16s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 2 compiled, 0 warnings, 0,11s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (307 files, 2 compiled, 0 warnings, 0,11s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
